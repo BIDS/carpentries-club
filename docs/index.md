@@ -10,17 +10,17 @@ title: "About"
 
 ## What:
 
-The Berkeley Carpentries Club serves to connect instructors of research computing workshops in the Berkeley, California area. We aim to begin as a network, but our focus is three-fold: 1) helping instructors learn from and support each other, 2) improving teaching skills in our instructor community, and 3) offerring workshops to our local community. We draw our name from [the Carpentries](https://carpentries.org/), which "teach[es] foundational coding and data science skills to researchers worldwide," but we include those from outside the Carpentries community as well. We do follow [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+The Berkeley Carpentries Club serves to connect instructors of research computing workshops in the Berkeley, California area. We aim to begin as a network, but our focus is three-fold: 1) helping instructors learn from and support each other, 2) improving teaching skills in our instructor community, and 3) offering workshops to our local community. We draw our name from [the Carpentries](https://carpentries.org/), which "teach[es] foundational coding and data science skills to researchers worldwide," but we include those from outside the Carpentries community as well. We do follow [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## How to Join:
 
 Anyone interested in the teaching of research computing and data science workshops is welcome to join our network. You do not need to be affiliated with UC Berkeley, the Berkeley Institute for Data Science, or the Carpentries to join. "The Berkeley, California area" is also liberally interpreted :)
 
-Start a pull request on our [who we are page]("{{ site.url }}/who.html"). 
+Start a pull request on our [who we are page](who.html). 
 
 ## Our Expertise:
 
-Check out [who we are and what we can teach]("{{ site.url }}/who.html")!
+Check out [who we are and what we can teach](who.html)!
 
 ## Where:
 
