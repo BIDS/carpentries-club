@@ -7,11 +7,11 @@ kramdown:
   hard_wrap: false
   parse_block_html: true
 github:
-  owner_url: https://github.com/BIDS/dats
-url: https://BIDS.github.io/dats
-name: The Data Analysis Tools Series
+  owner_url: https://github.com/BIDS/carpentries-club
+url: https://BIDS.github.io/carpentries-club
+name: The Berkeley Carpentries Club
 chapter: Berkeley Institute for Data Science
-description: DATS at BIDS
+description: BCC at BIDS
 twitter: UCBIDS
 avatar_url: /images/dats-logo.png
 disqus_username: 
