@@ -8,93 +8,27 @@ title: "About"
 
 # {{ site.name }} at the {{ site.chapter }}
 
-<p><b>Fall 2018 is here!</b> We now meet on <b>Mondays at 4pm in 190 Doe Library</b>.</p>
-
-<ul class="listing">
-<li>
-<span>Fall 2018</span><a href="{{ site.url }}/upcoming.html">Upcoming Topics</a>
-</li>
-  {% assign upcoming = (site.posts | where: "category" , "upcoming") %}
-  {% for post in upcoming reversed %}
-    {% if forloop.first %}
-	<li style="text-indent: 2em;">
-		<span>{{ post.date | date: "%B %e, %Y" }}</span> Next topic: <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-	</li>
-    {% endif %}
-  {% endfor %}
-<li>
-<span>2014-2018</span><a href="{{ site.url }}/previous.html">Previous Topics</a>
-</li>
-</ul>
-
 ## What:
 
-This is a weekly peer learning group for sharing skills and best practices for
-research computing and data science. In these friendly sessions, peers at all levels
-of experience share topics useful in our data analysis and software development
-workflows.
+The Berkeley Carpentries Club serves to connect instructors of research computing workshops in the Berkeley, California area. We aim to begin as a network, but our focus is three-fold: 1) helping instructors learn from and support each other, 2) improving teaching skills in our instructor community, and 3) offerring workshops to our local community. We draw our name from [the Carpentries](https://carpentries.org/), which "teach[es] foundational coding and data science skills to researchers worldwide," but we include those from outside the Carpentries community as well. We do follow [the Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-This meeting would be a great venue for introducing new libraries,
-showing off useful features of a data processing/analysis/visualization library or programming
-language you're using, or bringing up a computational problem you're
-having.
+## How to Join:
 
-## Who:
+Anyone interested in the teaching of research computing and data science workshops is welcome to join our network. You do not need to be affiliated with UC Berkeley, the Berkeley Institute for Data Science, or the Carpentries to join. "The Berkeley, California area" is also liberally interpreted :)
 
-Anyone interested how to learn and do things by programming computers is welcome to come to our meetings. You don't need to be affiliated with UC Berkeley or BIDS and you don't need to come every week. There is no set of prerequisites, although we frequently use bash and the command line, python, R, GitHub, and Jupyter notebooks.
+Start a pull request on our [who we are page]("{{ site.url }}/who.html"). 
 
-The group is currently led by Caroline Cypranowska (mostly), Diya Das, Stuart Geiger and Aaron Culich. If you have questions or would like to lead a session, you can reach all of us at [thw-admin@berkeley.edu](mailto:thw-admin@berkeley.edu).
+## Our Expertise:
+
+Check out [who we are and what we can teach]("{{ site.url }}/who.html")!
 
 ## Where:
 
-We meet at the [Berkeley Institute for Data Science](https://bids.berkeley.edu). Room 190, Doe Library, The University of California - Berkeley. It is on the ground floor of the main library. If you walk up the big marble steps across Memorial Glade, then turn left right as you walk in, you'll be there!
+For in-person meetings, we would likely meet at the [Berkeley Institute for Data Science](https://bids.berkeley.edu). Room 190, Doe Library, The University of California - Berkeley. It is on the ground floor of the main library. If you walk up the big marble steps across Memorial Glade, then turn left right as you walk in, you'll be there!
 
 ## When:
 
-Mondays at 4pm (Berkeley time -- starting officially at 4:10, but have a friendly chat from 4:00-4:10 if you like). While the main session should occupy less than an hour, the
-lightning talks and hacking session usually go on until 5:30pm. See the [upcoming topics list]({{ site.url }}/upcoming.html) for the topic for this week.
-
-## How:
-
-### Communications
-* [Mailing list](https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/ucb-hacker-within)
-* [Slack channel](http://thehackerwithin.slack.com) if you've got an account
-  * [Go here to get an invite to the slack channel](http://theslackerwithin.herokuapp.com) -- invite token "berkeley"
-
-### Participating:
-
-Participating is really easy.
-<ul>
-<li>At **4:00pm**, we gather and go through a round of introductions.
-New faces are always appearing!</li>
-<li>Next, a volunteer will give a **tutorial** or lead a
-**discussion** about a
-computational topic. This topic can be anything useful, new, or
-interesting to scientists who compute. It may be some new skill you have recently picked
-up in your research, a productivity tool you have recently learned to love, an overview of a
-useful library, or anything you feel we would enjoy learning.</li>
-<li>Finally, there will be a time for a couple of **Lightning Talks**, which
-are 5-10 minute blasts of information about a particular topic or
-question of interest to the group.
-**Note** that the lightning talk time is a good way to bring a
-question to the group. If you have a bug you need help with, here's the
-place to ask many ears about it at once.
-</li>
-</ul>
-
-## Why:
-
-The tenets of scientiﬁc endeavor (e.g., data control, reproducibility,
-comprehensive documentation, and peer review) suffer in projects that fail
-to make use of current development tools such as unit testing, version
-control, automated documentation, and others.
-
-To avoid these pitfalls, this weekly meeting exists for sharing skills and best practices for
-computational scientific applications. This group is modeled after The
-Hacker Within, which  began as a student organization at the University of Wisconsin-Madison. 
-DATS began as [a chapter](http://www.thehackerwithin.org/berkeley) of The Hacker Within. Each chapter convenes a community of scientists, at all levels of their
-education and training, to share their knowledge and best practices in
-using computing to accomplish their work.
+We don't have plans to meet regularly yet!
 
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-via="{{ site.twitter }}">Tweet</a>
 <a href="http://twitter.com/{{ site.twitter }}" class="twitter-follow-button" data-show-count="false">Follow @{{ site.twitter }}</a>
