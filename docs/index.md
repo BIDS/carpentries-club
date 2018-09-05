@@ -6,7 +6,7 @@ title: "About"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
 
-# {{ site.name }} at the {{ site.chapter }}
+# {{ site.name }} 
 
 ## What:
 
@@ -20,7 +20,7 @@ Start a pull request on our [who we are page](who.html).
 
 ## Our Expertise:
 
-Check out [who we are and what we can teach](who.html)!
+Check out [who we are and what we teach](who.html)!
 
 ## Where:
 
