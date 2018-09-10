@@ -16,7 +16,7 @@ The Berkeley Carpentries Club serves to connect instructors of research computin
 
 Anyone interested in the teaching of research computing and data science workshops is welcome to join our network. You do not need to be affiliated with UC Berkeley, the Berkeley Institute for Data Science, or the Carpentries to join. "The Berkeley, California area" is also liberally interpreted :)
 
-Start a pull request on our [who we are page](who.html). 
+Start a pull request against our [who we are page on GitHub](https://github.com/BIDS/carpentries-club/blob/master/docs/who.md). 
 
 ## Our Expertise:
 
