@@ -21,3 +21,5 @@ To add yourself, start a Pull Request on this page on our GitHub repo, and join 
 | Kunal Marwaha  | Pandora Media <br> UC Berkeley alumnus | Carpentries Instructor | Python, Shell, Git, R | [marwahaha](https://github.com/marwahaha) | [www.kunalmarwaha.com](www.kunalmarwaha.com) | [@kmarwahaha](https://twitter.com/kmarwahaha) |
 | Richard Barnes | UCB <br> BIDS <br> EECS <br> ERG | Carpentries Instructor | Shell, Git, Python, Geospatial, Ecology, Geology | [r-barnes](https://github.com/r-barnes) | [rbarnes.org](http://rbarnes.org) |   |
 | Josh Quan | UC Berkeley Library | Carpentries Instructor | R, Git | [wrathofquan](https://github.com/wrathofquan)| |
+| Nima Hejazi  | UC Berkeley <br> Group in Biostatistics | Carpentries Instructor & Maintainer of ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) | R, Git, Shell, Python, Genomics | [nhejazi](https://github.com/nhejazi) | [nimahejazi.org](https://nimahejazi.org) | [@nshejazi](https://twitter.com/nshejazi) |
+
