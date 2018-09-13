@@ -21,3 +21,4 @@ To add yourself, start a Pull Request on this page on our GitHub repo, and join 
 | Kunal Marwaha  | Pandora Media <br> UC Berkeley alumnus | Carpentries Instructor | Python, Shell, Git, R | [marwahaha](https://github.com/marwahaha) | [www.kunalmarwaha.com](www.kunalmarwaha.com) | [@kmarwahaha](https://twitter.com/kmarwahaha) |
 | Richard Barnes | UCB <br> BIDS <br> EECS <br> ERG | Carpentries Instructor | Shell, Git, Python, Geospatial, Ecology, Geology | [r-barnes](https://github.com/r-barnes) | [rbarnes.org](http://rbarnes.org) |   |
 | Josh Quan | UC Berkeley Library | Carpentries Instructor | R, Git | [wrathofquan](https://github.com/wrathofquan)| |
+| Tyler Reddy | Los Alamos National Laboratory <br> UC BIDS | Carpentries Instructor | Python, Git, SciPy, Computational Geometry | [tylerjereddy](https://github.com/tylerjereddy) | [BIDS page](https://bids.berkeley.edu/people/tyler-reddy) | [@Tyler\_Reddy](https://twitter.com/Tyler\_Reddy) |
