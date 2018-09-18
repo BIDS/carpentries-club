@@ -23,3 +23,5 @@ To add yourself, start a Pull Request on this page on our GitHub repo, and join 
 | Josh Quan | UC Berkeley Library | Carpentries Instructor | R, Git | [wrathofquan](https://github.com/wrathofquan)| |
 | Tyler Reddy | Los Alamos National Laboratory <br> Berkeley Institute for Data Science (UC Berkeley) | Carpentries Instructor | Python, Git, SciPy, Computational Geometry | [tylerjereddy](https://github.com/tylerjereddy) | [BIDS page](https://bids.berkeley.edu/people/tyler-reddy) | [@Tyler_Reddy](https://twitter.com/Tyler_Reddy) |
 | Nima Hejazi  | UC Berkeley <br> Group in Biostatistics | Carpentries Instructor & Maintainer of ["Version Control with Git"](https://swcarpentry.github.io/git-novice/) | R, Git, Shell, Python, Genomics | [nhejazi](https://github.com/nhejazi) | [nimahejazi.org](https://nimahejazi.org) | [@nshejazi](https://twitter.com/nshejazi) |
+| Yasmin AlNoamany  | UC Berkeley <br> Berkeley Institute for Data Science & the Library | Carpentries Instructor | R, Git, Shell, Python | [yasmina85](https://github.com/yasmina85) | [yasmina85.github.io](https://yasmina85.github.io) | [@yasmina_anwar](https://twitter.com/yasmina_anwar) |
+
