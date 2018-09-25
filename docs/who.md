@@ -27,3 +27,4 @@ To add yourself, start a Pull Request on this page on our GitHub repo, and join 
 | Scott Peterson  | UC Berkeley Library | Carpentries Instructor | Git, Shell, OpenRefine | [scottcpeterson](https://github.com/scottcpeterson) | | [@scottcpeterson2](https://twitter.com/scottcpeterson2) |
 | Evan Muzzall | UC Berkeley D-Lab | Instructional Services Lead | R, Python, Bash, Git | [EastBayEv](https://github.com/EastBayEv) | [D-Lab](https://github.com/dlab-berkeley) | |
 Aaron Culich | UC Berkeley D-Lab | Carpentries Volunteer (and aspiring Instructor awaiting a feasibly scheduled training) | Shell, Git, Python, SQL, Cloud, HPC | [aculich](https://github.com/aculich) | [D-Lab](https://github.com/dlab-berkeley) | |
+| Tracy Teal | The Carpentries | Carpentries instructor | R, Python, OpenRefine, SQL, data organization in spreadsheets!, Git | [tracykteal](https://github.com/tracykteal/) | | [@tracykteal](https://twitter.com/tracykteal) |
